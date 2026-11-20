@@ -3,13 +3,13 @@
 **M.Sc. in Biomedical Engineering (Bioelectric)**  
 Iran University of Science and Technology (IUST)
 
-I work at the intersection of computational neuroscience, neural electrophysiology, and signal processing. My research uses quantitative methods to study neural activity and behavior, with Python and MATLAB as my primary computational tools. Alongside my graduate work, I serve as a teaching assistant in Digital Signal Processing and Pattern Recognition.
+My work combines neural electrophysiology, computational neuroscience, and signal processing. I use Python and MATLAB to examine neural recordings and behavioral data, with an emphasis on careful measurement and reproducible analysis. I also serve as a teaching assistant in Digital Signal Processing and Pattern Recognition at IUST.
 
 ### Current research
 
 **IBL Brain-Wide Map — Neural Electrophysiology and Behavioral Data Analysis**
 
-My graduate research uses publicly available International Brain Laboratory recordings, including pre-sorted spike trains, local field potentials (LFP), and associated behavioral measurements. The work involves preparing and assessing neural datasets and developing reproducible computational analyses. Research hypotheses and unpublished results are not included here.
+My graduate research uses publicly available recordings from the International Brain Laboratory, including pre-sorted spike trains, local field potentials (LFP), and associated behavioral measurements. I work on data preparation, quality assessment, and quantitative analysis of these recordings.
 
 ### Previous academic projects
 
@@ -20,7 +20,7 @@ My graduate research uses publicly available International Brain Laboratory reco
 **Brain–computer interfaces**
 - **Motor-imagery EEG classification (2018):** MATLAB-based signal processing, feature analysis, and classification of motor-imagery EEG data.
 
-These projects reflect earlier academic work. Their source code and supporting material are not yet published in this GitHub account.
+These are earlier academic projects; their code is not currently hosted in this GitHub account.
 
 ### Public code
 
