@@ -18,7 +18,7 @@ My graduate research uses publicly available recordings from the International B
 - **Neural response encoding and decoding:** Academic work examining quantitative descriptions of neural responses and their relationship to experimental variables.
 
 **Brain–computer interfaces**
-- **Motor-imagery EEG classification (2018):** MATLAB-based signal processing, feature analysis, and classification of motor-imagery EEG data.
+- **Motor-imagery EEG classification (2018):** Initially developed in MATLAB. A subsequent Python implementation is being prepared for technical review and reproducible documentation.
 
 These are earlier academic projects; their code is not currently hosted in this GitHub account.
 
