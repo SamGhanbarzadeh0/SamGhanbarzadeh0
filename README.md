@@ -14,15 +14,17 @@ My graduate research uses publicly available recordings from the International B
 ### Previous academic projects
 
 **Computational neuroscience**
-- **Extracellular spike sorting (2019):** Comparative evaluation of detection, feature extraction, and clustering methods using reference-annotated simulated recordings.
+- **[Extracellular spike sorting (2019)](https://github.com/SamGhanbarzadeh0/Extracellular-Spike-Sorting):** Comparative evaluation of detection, feature extraction, and clustering methods using reference-annotated simulated recordings. The published repository includes the 2026 Python validation and documentation.
 - **Neural response encoding and decoding:** Academic work examining quantitative descriptions of neural responses and their relationship to experimental variables.
 
 **Brain–computer interfaces**
 - **Motor-imagery EEG classification (2018):** Initially developed in MATLAB. A subsequent Python implementation is being prepared for technical review and reproducible documentation.
 
-These are earlier academic projects; their code is not currently hosted in this GitHub account.
+The neural response encoding/decoding and motor-imagery EEG projects are not yet available here as standalone public repositories.
 
 ### Public code
+
+**[Extracellular Spike Sorting](https://github.com/SamGhanbarzadeh0/Extracellular-Spike-Sorting)** — Nine-method benchmark on reference-annotated simulations, with archived validation results, figures, and reproducibility documentation.
 
 **[Image and Signal Processing in MATLAB](https://github.com/SamGhanbarzadeh0/Innovation-Showcase-)** — Implementations and numerical tests for image and signal processing, with preserved historical code, reproducible benchmarks, and documented limitations.
 
