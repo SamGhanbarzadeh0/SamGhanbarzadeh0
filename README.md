@@ -18,9 +18,9 @@ My graduate research uses publicly available recordings from the International B
 - **Neural response encoding and decoding:** Academic work examining quantitative descriptions of neural responses and their relationship to experimental variables.
 
 **Brain–computer interfaces**
-- **Motor-imagery EEG classification (2018):** Initially developed in MATLAB. A subsequent Python implementation is being prepared for technical review and reproducible documentation.
+- **[Motor-imagery EEG classification (2018)](https://github.com/SamGhanbarzadeh0/BCI-Motor-Imagery):** Initially developed in MATLAB. A subsequent Python CSP benchmark is undergoing technical review before public release.
 
-The neural response encoding/decoding and motor-imagery EEG projects are not yet available here as standalone public repositories.
+The neural response encoding/decoding project is not yet hosted as a standalone public repository. The motor-imagery EEG repository is an empty placeholder; its code, notebooks, and results have not yet been published.
 
 ### Public code
 
