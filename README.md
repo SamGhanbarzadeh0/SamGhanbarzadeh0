@@ -26,6 +26,8 @@ The neural response encoding/decoding project is not yet hosted as a standalone 
 
 **[Extracellular Spike Sorting](https://github.com/SamGhanbarzadeh0/Extracellular-Spike-Sorting)** — Nine-method benchmark on reference-annotated simulations, with archived validation results, figures, and reproducibility documentation.
 
+**[Machine Learning — SVM and SVR](https://github.com/SamGhanbarzadeh0/Machine-Learning)** — Python implementations of support vector machines and support vector regression from first principles, covering constrained optimization, kernel methods, and multiclass classification. The implementations are evaluated on the UCI Dermatology and NHANES datasets and compared with scikit-learn.
+
 **[Image and Signal Processing in MATLAB](https://github.com/SamGhanbarzadeh0/Innovation-Showcase-)** — Implementations and numerical tests for image and signal processing, with preserved historical code, reproducible benchmarks, and documented limitations.
 
 ### Research areas and tools
